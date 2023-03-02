@@ -13,7 +13,8 @@ header {
     width: 100vw;
     background-repeat: no-repeat;
     background-size: cover;
-    color:rgb(134, 121, 121);    
+    color:rgb(255, 254, 197);
+    text-shadow: 0 0 3px rgb(254, 254, 193);    
 }
 
 h1 {
