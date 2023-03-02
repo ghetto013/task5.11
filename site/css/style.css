@@ -10,7 +10,7 @@ header {
     height: 400px;
     background-color: #d0d1d3;
     background: url(../images/1502011131119481309.jpg);
-    width: 100%;
+    width: 100vw;
 }
 
 h1 {
