@@ -7,10 +7,13 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 400px;
+    height: 70vh;
     background-color: #d0d1d3;
     background: url(../images/1502011131119481309.jpg);
     width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(134, 121, 121);    
 }
 
 h1 {
@@ -18,8 +21,8 @@ h1 {
     font-weight: 800;
     font-size: 3rem;
     font-family:'Times New Roman', Times, serif;
-    position: relative;
-    bottom: -4rem;
+    position: absolute;
+    bottom: 18rem;   
 }
 
 .news {
